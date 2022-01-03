@@ -1,0 +1,43 @@
+html {
+ font-family:helvetica;
+ scroll-behavior: smooth;
+}
+
+
+.header {
+    background:#27292D;
+    height:45px;
+    padding: 0;
+    width:100% ;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.left-head {
+    background-color: wheat;
+    float: left;
+    height: 45px;
+    width: 33.333%;
+}
+.menu {
+    float: left;
+    margin-top: 6px;
+}
+
+.logo {
+   float: left;
+   text-align: center;
+   margin-top: 9px;
+   width: 33.333%;
+   height: 45px;
+   background-color: red;
+}
+
+.right-head {
+    float: left;
+    height: 45px;
+    width: 33.333%;
+    background-color: blue;
+}
